@@ -6,6 +6,7 @@ I'm an aspiring researcher interested in Computer Vision. Currently I am:
 
 📚 A master student @ U of Bonn: a research-focused CS program. GPA 1.5;
 
+
 📃 An independent researcher: working on a paper on ASMR in service experience (CX). > 2.5k respondents.
 
 🚈 So I'm interested in research beyond my computer science pursuits - thanks to my previous experience:
