@@ -8,7 +8,7 @@ I'm an aspiring researcher interested in Computer Vision. Currently I am:
 
 📃 An independent researcher: working on a paper on ASMR in service experience (CX). > 2.5k respondents.
 
-🚈 So I'm interested in research beyond my computer science pursuits. That is thanks to a bit of variety in my previous experience:
+🚈 So I'm interested in research beyond my computer science pursuits - thanks to my previous experience:
 - BSc in CS in Russia;
 - Moved to Bulgaria and studied an MBA;
 - Built and managed a web scraper for an Economics research;
