@@ -2,7 +2,8 @@
 
 I'm an aspiring researcher interested in Computer Vision. Currently I am:
 
-🔍 A research assistant @ U of Oxford: ETL, data cleaning and exploratory data analysis for a Finance project. ~100 million entries.
+🔍 A research assistant @ U of Oxford: ETL, data cleaning and exploratory data analysis for a Finance project. ~100 million entries
+
 📚 A master student @ U of Bonn: a research-focused CS program. GPA 1.5.
 📃 An independent researcher: working on a paper on ASMR in service experience (CX). > 2.5k respondents.
 
