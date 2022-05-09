@@ -2,11 +2,11 @@
 
 I'm an aspiring researcher studying Computer Vision. I'm also interested in Finance (common ownership) and Business (service design, consumer experience). I'm based in Germany and currently I am:
 
-🔍 A research assistant @ U of Oxford: parsing, data cleaning and exploratory analysis for a Finance project. ~100 million entries;
+🔍 A research assistant @ U of Oxford: parsing, data cleaning and exploratory analysis for a Finance project. (~100 million entries);
 
-📚 A master student @ U of Bonn: a research-focused CS program. GPA 1.5;
+📚 A master student @ U of Bonn: a research-focused CS program. (GPA 1.5);
 
-📃 A business research beginner: first reject with a paper on [ASMR in service experience](https://asmruniversity.com/tag/vladimir-fedoseev/). > 2.5k respondents.
+📃 A business research beginner: first reject with a paper on [ASMR in service experience](https://asmruniversity.com/tag/vladimir-fedoseev/). (> 2.5k respondents).
 
 _____
 🚈 So I'm interested in research beyond my computer science pursuits - thanks to my previous experience:
