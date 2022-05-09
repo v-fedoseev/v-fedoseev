@@ -12,11 +12,11 @@ _____
 🚈 So I'm interested in research beyond my computer science pursuits - thanks to my previous experience:
 - BSc in CS in Russia;
 - MBA in Bulgaria (honors);
-- Built a web scraper for an Economics research (500k entries daily from 8 sources);
-- Worked as an RA at U of Bonn on a Computer Vision project.
+- Built a web scraper for an Economics research (500k entries in 30 mins from 8 sources daily);
+- Worked as an RA at U of Bonn on a Computer Vision project (object detection for 80k images).
 
 📈 As for my future, I hope to work as a researcher in a team with high real-world impact. Some day I would also love to try myself in a more strategic, product-oriented role in AI.
 
-🏃 In my free time you can find me running, biking or enjoying art: music, books, films.
+🏃 In my free time you can find me running, biking or enjoying music, a book or a film.
 
 Reach me with via email (fedoseev.vla at gmail.com) or [Linkedin](linkedin.com/in/vladimir-fedoseev/)
