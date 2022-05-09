@@ -6,7 +6,7 @@ I'm an aspiring researcher studying Computer Vision. I'm also interested in Fina
 
 📚 A master student @ U of Bonn: a research-focused CS program. GPA 1.5;
 
-📃 An independent researcher: first reject with a paper on [asmruniversity.com/tag/vladimir-fedoseev/](ASMR in service experience). > 2.5k respondents.
+📃 An independent researcher: first reject with a paper on [ASMR in service experience](https://asmruniversity.com/tag/vladimir-fedoseev/). > 2.5k respondents.
 
 _____
 🚈 So I'm interested in research beyond my computer science pursuits - thanks to my previous experience:
@@ -19,4 +19,4 @@ _____
 
 🏃 In my free time you can find me running, biking or enjoying art: music, books, films.
 
-Reach me with via email (fedoseev.vla at gmail.com) or [linkedin.com/in/vladimir-fedoseev/](Linkedin)
+Reach me with via email (fedoseev.vla at gmail.com) or [Linkedin](linkedin.com/in/vladimir-fedoseev/)
