@@ -15,7 +15,7 @@ _____
 - Built a web scraper for an Economics research (500k entries in 30 mins from 8 sources daily);
 - Worked as an RA at U of Bonn on a Computer Vision project (object detection for 80k images).
 
-📈 As for my future, I hope to work as a researcher in a team with high real-world impact. Some day I would also love to try myself in a more strategic, product-oriented role in AI.
+📈 As for my future, I hope to work as an AI researcher in a team with high real-world impact. Some day I would also love to try myself in a more strategic, product-oriented role.
 
 🏃 In my free time you can find me running, biking or enjoying music, a book or a film.
 
