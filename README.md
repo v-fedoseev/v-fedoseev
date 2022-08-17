@@ -9,11 +9,11 @@ I'm an aspiring researcher studying Computer Vision. I'm also interested in Fina
 📃 A business research beginner: first reject with a paper on [ASMR in service experience](https://asmruniversity.com/tag/vladimir-fedoseev/). (> 2.5k respondents).
 
 _____
-🚈 So I'm interested in research beyond my Computer Science pursuits - thanks to my previous experience:
+🚈 So I'm interested in research beyond Computer Science - thanks to my previous experience:
 - BSc in CS in Russia;
-- MBA in Bulgaria (honors);
-- Built a web scraper for an Economics research (500k entries in 30 mins from 8 sources daily);
-- Worked as an RA at U of Bonn on a Computer Vision project (object detection for 80k images).
+- MBA in Bulgaria;
+- Built a web scraper for an Economics research;
+- Worked as an RA at U of Bonn on a Computer Vision project.
 
 📈 As for my future, I hope to work as an AI researcher in a team with high real-world impact. Some day I would also love to try myself in a more strategic, product-oriented role.
 
