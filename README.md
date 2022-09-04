@@ -9,14 +9,14 @@ I'm an aspiring researcher studying Computer Vision. I'm also interested in Fina
 📃 A business research beginner: first reject with a paper on [ASMR in service experience](https://asmruniversity.com/tag/vladimir-fedoseev/). (> 2.5k respondents).
 
 _____
-🚈 So I'm interested in research beyond Computer Science - thanks to my previous experience:
+🚈 What I did before:
 - BSc in CS in Russia;
 - MBA in Bulgaria;
-- Built a web scraper for an Economics research;
+- Wrote 20+ data collectors / web scrapers for various research and business.
 - Worked as an RA at U of Bonn on a Computer Vision project.
 
 📈 As for my future, I hope to work as an AI researcher in a team with high real-world impact. Some day I would also love to try myself in a more strategic, product-oriented role.
 
 🏃 In my free time you can find me running, biking or enjoying music, a book or a film.
 
-Reach me with via email (fedoseev.vla at gmail.com) or [Linkedin](linkedin.com/in/vladimir-fedoseev/)
+Reach me via email (fedoseev.vla at gmail.com) or [Linkedin](linkedin.com/in/vladimir-fedoseev/)
