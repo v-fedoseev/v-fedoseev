@@ -2,7 +2,7 @@
 
 I'm a research assistant / master student, and I study Computer Vision. I'm also interested in Finance (common ownership) and Business (service design, consumer experience). I'm based in Germany and currently I am:
 
-🔍 A research assistant @ U of Oxford: parsing, data cleaning and exploratory analysis for a Finance project. (~100 million entries);
+🔍 A research assistant @ U of Oxford: parsing, data cleaning and exploratory analysis for a Finance project. (~100 million data points);
 
 📚 A master student @ U of Bonn: a research-focused CS program. (current GPA 1.47);
 
