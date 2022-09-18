@@ -19,4 +19,4 @@ _____
 
 🏃 In my free time you can find me running, biking or enjoying music, a book or a film.
 
-Reach me via email (fedoseev.vla at gmail.com) or [Linkedin](linkedin.com/in/vladimir-fedoseev/)
+Reach me via email or [Linkedin](linkedin.com/in/vladimir-fedoseev/)
