@@ -4,7 +4,7 @@ I'm a research assistant / master student, and I study Computer Vision. I'm also
 
 🔍 A research assistant @ U of Oxford: parsing, data cleaning and exploratory analysis for a Finance project. (~100 million entries);
 
-📚 A master student @ U of Bonn: a research-focused CS program. (GPA 1.47);
+📚 A master student @ U of Bonn: a research-focused CS program. (current GPA 1.47);
 
 📃 A business research beginner: first reject with a paper on [ASMR in service experience](https://asmruniversity.com/tag/vladimir-fedoseev/). (> 2.5k respondents).
 
