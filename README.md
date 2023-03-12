@@ -17,13 +17,9 @@ _____
 - BSc in CS in Russia.
 
 📈 As for my future, I hope to work as an AI researcher in a team with high real-world impact. I find many industries very rewarding, but most of all I would love to contribute towards:
-
 a) increasing health span / fighting aging with AI, so people live longer and healthier
-
 b) investigating and analysing injustice and dictatorship with data, so people are more free and safe
-
 c) fighting climate change, pollution and overproduction, so people live more sustainably
-
 d) advancing ai in general, so people have more time and resources to be humane and creative.
 
 🏃 In my free time you can find me running, biking or enjoying music, a book or a film.
