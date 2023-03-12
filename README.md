@@ -25,6 +25,7 @@ b) investigating and analysing injustice and dictatorship with data, so people a
 c) fighting climate change, pollution and overproduction, so people live more sustainably
 
 d) advancing ai in general, so people have more time and resources to be humane and creative.
+
 🏃 In my free time you can find me running, biking or enjoying music, a book or a film.
 
 Reach me via email or [Linkedin](linkedin.com/in/v-fedoseev/)
