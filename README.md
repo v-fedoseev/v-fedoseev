@@ -1,6 +1,6 @@
 ### Hi there, I'm Vladimir 👋
 
-I'm studying Computer Vision. I'm also interested in Finance (common ownership) and Business (service design, consumer experience). I'm based in Germany and currently I am:
+I'm studying Computer Vision. I'm based in Germany and currently I am:
 
 🔍 Writing my master thesis in Computer Vision @ Bosch;
 
