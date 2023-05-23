@@ -21,7 +21,7 @@ _____
 - increasing health span / fighting aging with AI, so people live longer and healthier
 - investigating and analysing injustice and dictatorship with data, so people are more free and safe
 - fighting climate change, pollution and overproduction, so people live more sustainably
-- advancing ai in general, so people have more time and resources to be humane and creative.
+- advancing ai in general, so people have more time and resources to be human and creative.
 
 🏃 In my free time you can find me running, biking or enjoying music, a book or a film.
 
