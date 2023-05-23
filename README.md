@@ -16,7 +16,7 @@ _____
 - MBA in Bulgaria;
 - BSc in CS in Russia.
 
-📈 As for my future, I hope to work as an AI researcher in a team with high real-world impact. I find many industries very rewarding, but most of all I would love to contribute towards:
+📈 As for my future, I hope to work as Research Scientist in a team with high real-world impact. I find many industries very rewarding, but most of all I would love to contribute towards:
 
 - increasing health span / fighting aging with AI, so people live longer and healthier
 - investigating and analysing injustice and dictatorship with data, so people are more free and safe
