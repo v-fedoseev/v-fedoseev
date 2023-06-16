@@ -6,7 +6,7 @@ I'm studying Computer Vision. I'm based in Germany and currently I am:
 
 📚 A master student @ U of Bonn: a research-focused CS program;
 
-📃 RA @ U of Oxford: parsing, data cleaning and exploratory analysis for a Finance project;
+📃 Research Assistant @ U of Oxford: parsing, data cleaning and exploratory analysis for a Finance project;
 
 _____
 🚈 What I did before:
