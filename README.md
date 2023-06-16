@@ -4,16 +4,15 @@ I'm studying Computer Vision. I'm based in Germany and currently I am:
 
 🔍 Writing my master thesis in Computer Vision @ Bosch;
 
-📚 A master student @ U of Bonn: a research-focused CS program. (current GPA 1.65);
+📚 A master student @ U of Bonn: a research-focused CS program;
 
-📃 A business research beginner: first reject with a paper on [ASMR in service experience](https://asmruniversity.com/tag/vladimir-fedoseev/). (> 2.5k respondents).
+📃 RA @ U of Oxford: parsing, data cleaning and exploratory analysis for a Finance project;
 
 _____
 🚈 What I did before:
-- RA at U of Oxford: parsing, data cleaning and exploratory analysis for a Finance project;
 - RA at U of Bonn on a Computer Vision project;
 - Wrote 20+ data collectors / web scrapers for various research and business;
-- MBA in Bulgaria;
+- MBA in Bulgaria (currently turning the [thesis on ASMR in service experience](https://asmruniversity.com/tag/vladimir-fedoseev/) into a paper)
 - BSc in CS in Russia.
 
 📈 As for my future, I hope to work as Research Scientist in a team with high real-world impact. I find many industries very rewarding, but most of all I would love to contribute towards:
