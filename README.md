@@ -4,7 +4,7 @@ I'm a data analyst/scientist and an aspiring researcher in Economics and Machine
 
 - A recent graduate @ U of Bonn: a research-focused CS program. (GPA 1.77);
 
-- An RA @ U of Oxford: data parsing, cleaning and analysis in a Finance project.
+- A research assistant @ U of Oxford: data parsing, cleaning and analysis in a Finance project.
 _____
 What I did before:
 - Computer Vision Master thesis intern at Bosch (Neural Radiance Fields);
