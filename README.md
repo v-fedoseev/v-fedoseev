@@ -2,7 +2,7 @@
 
 I'm a data analyst and an aspiring researcher in Economics and Machine Learning. I'm based in Germany and currently I am:
 
-- A recent graduate @ U of Bonn: a research-focused CS program. (GPA 1.77);
+- A recent graduate @ U of Bonn: a research-focused CS program. (GPA 1.6);
 
 - A research assistant @ U of Oxford: data parsing, cleaning and analysis in a Finance project.
 _____
