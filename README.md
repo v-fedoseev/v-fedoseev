@@ -13,7 +13,7 @@ What I did before:
 - MBA in Bulgaria;
 - BSc in CS in Russia.
 
-As for my future, I hope to work as a researcher or an applied scientist in Economics and/or AI, in a diverse team with high real-world impact.
+As for my future, I hope to work as a researcher or an applied scientist, in a diverse team with high real-world impact.
 
 In my free time you can find me running, biking or enjoying music, a book or a film.
 
