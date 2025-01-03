@@ -2,9 +2,9 @@
 
 I'm a Machine Learning Engineer. I'm based in Germany and currently I am:
 
-- A recent graduate @ U of Bonn: a research-focused CS program. (GPA 1.6);
+⚙️ A recent graduate @ U of Bonn: a research-focused CS program. (GPA 1.6);
 
-- An intern @ Korro AI: Computer Vision and AI
+⚙️ An intern @ Korro AI: Computer Vision and AI
 _____
 🚈 What I did before:
 - A research assistant @ U of Oxford: data parsing, cleaning and analysis in a Finance project.
